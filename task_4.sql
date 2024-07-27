@@ -1,2 +1,2 @@
 USE alx_book_store;
-DESC Books;
+DESC TABLE Books;
